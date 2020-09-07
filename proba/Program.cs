@@ -10,6 +10,8 @@ namespace proba
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Im speed");
+            Console.ReadKey();
         }
     }
 }
